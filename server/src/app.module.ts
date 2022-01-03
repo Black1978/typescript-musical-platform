@@ -4,7 +4,7 @@ import { TrackModule } from "./track/track.module";
 
 @Module({
     imports: [
-        MongooseModule.forRoot('mongodb+srv://root:root12345@cluster0.2bve0.mongodb.net/music-platform?retryWrites=true&w=majority'),
+        MongooseModule.forRoot('mongodb+srv://root:*********@cluster0.2bve0.mongodb.net/music-platform?retryWrites=true&w=majority'),
         TrackModule
     ]
 })
