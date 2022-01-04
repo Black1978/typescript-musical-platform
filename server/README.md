@@ -1,3 +1,3 @@
-## Musical platform, client + server
+## Musical platform, server
 
 Nest.js, Typescript
