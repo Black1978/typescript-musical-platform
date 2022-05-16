@@ -1,3 +1,3 @@
-## Musical platform, client + server
+## Musical platform, client + server.
 
-Nest.js, Next.js, Typescript
+Nest.js, Next.js, Typescript.
